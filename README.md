@@ -4,7 +4,7 @@ Software Developer
 <br/>
 I am from Ecuador
 <br/>
-I started studying automotive mechanics in high school, after a programming course that changed what I wanted to study, I started with console applications, web pages and now I feel fascinated creating mobile applications of any kind and now I just like to build things with code, so that's mostly what i do in my videos  * 🌍  I'm based in Guadalajara * ✉️  You can contact me at [absalonsbzero@gmail.com](mailto:jjandres12@gmail.com) * 
+ [absalonsbzero@gmail.com](mailto:jjandres12@gmail.com) * 
 
 <a href="https://twitter.com/JJandres12" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/jjandres12?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://github.com/condor-500" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/condor-500?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills
