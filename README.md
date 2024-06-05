@@ -1,10 +1,9 @@
-Hi 👋 My name is Jefferson Jacome
+Hi 👋 My name is Andres Jacome
 <br/>
 Software Developer
 <br/>
 I am from Ecuador
 <br/>
- [jjandres12@gmail.com](mailto:jjandres12@gmail.com) * 
 
 <a href="https://twitter.com/JJandres12" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/jjandres12?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://github.com/condor-500" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/condor-500?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills
